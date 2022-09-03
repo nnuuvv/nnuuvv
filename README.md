@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Liv</h1>
-<h3 align="center">A trans 🏳️‍⚧️ woman and front-/backend dev from Germany <br />
+<h3 align="center">A trans 🏳️‍⚧️ woman and backend dev from Germany <br />
 I happen to do stuff, every now and then 🤔</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnuuvv&show_icons=true&locale=en&layout=compact" alt="nnuuvv" /></p>
