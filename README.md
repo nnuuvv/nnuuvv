@@ -6,15 +6,6 @@ I happen to do stuff, every now and then 🤔</h3>
 
 <br/>
 
-<p width="100%">
-  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=nnuuvv&show_icons=true&locale=en&theme=radical" alt="nnuuvv" />
-  <img width="49.372%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnuuvv&theme=radical" alt="nnuuvv" />
-</p>
-
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnuuvv&column=-1&theme=radical&margin-w=20&margin-h=20" alt="nnuuvv" /></a> 
-</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnuuvv&show_icons=true&locale=en&layout=compact&theme=radical" alt="nnuuvv" /></p>
 
 
