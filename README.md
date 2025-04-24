@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnuuvv&label=Profile%20views&color=0e75b6&style=flat" alt="nnuuvv" /> </p>
-<h1 align="center">Hi there 👋, I'm Liv</h1>
-<h3 align="center">A backend (and occasional frontend) dev from Germany <br/>
-I happen to do stuff, every now and then 🤔</h3>
+<h1 align="center">Hi there 👋, I'm ollie</h1>
+<h3 align="center">A dev from Germany <br/>
+I do stuff</h3>
+<p align="center">I generally prefer the backend but I do dabble around the front sometimes.</p>
 
 ---
 <div align="center">
