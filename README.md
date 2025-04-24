@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm ollie</h1>
-<h3 align="center">A dev from Germany <br/>
-I do stuff</h3>
+<h3 align="center">A dev from Germany; I do stuff</h3>
 <p align="center">I generally prefer the backend but I do dabble around the front sometimes.</p>
 
 ---
