@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm ollie</h1>
 <h3 align="center">A dev from Germany; I do stuff</h3>
-<p align="center">Chances are you wont find what you were looking for here; have a look at my <a href="https://git.nuv.sh/nuv">git instance</a> or <a href="https://tangled.org/@nuv.sh/">tangled</a> </p>
+<p align="center">Chances are you wont find what you are looking for here; have a look at my <a href="https://git.nuv.sh/nuv">git instance</a> or <a href="https://tangled.org/@nuv.sh/">tangled</a> </p>
 
 ---
 <div align="center">
